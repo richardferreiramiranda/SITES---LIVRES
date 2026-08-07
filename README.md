@@ -9,14 +9,15 @@ Each prototype is a **single self-contained HTML file** (no build step, no exter
 | Date | Category | File | Description |
 | --- | --- | --- | --- |
 | 2026-08-06 | SaaS | [prototype_saas_2026-08-06.html](prototypes/prototype_saas_2026-08-06.html) | Landing page for "CloudFlow", a workflow-automation SaaS product, with feature grid, how-it-works steps, and pricing tiers. |
+| 2026-08-07 | E-commerce | [prototype_ecommerce_2026-08-07.html](prototypes/prototype_ecommerce_2026-08-07.html) | Storefront for "Meridian", a home/lifestyle goods brand, with shop-by-category grid, bestseller product cards, and a newsletter CTA. |
 
 ## Categories covered so far
 
 - SaaS
+- E-commerce
 
 ## Categories still to do (suggested)
 
-- E-commerce
 - Agency
 - Restaurant
 - Fitness / Gym
