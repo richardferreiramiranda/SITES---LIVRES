@@ -10,15 +10,16 @@ Each prototype is a **single self-contained HTML file** (no build step, no exter
 | --- | --- | --- | --- |
 | 2026-08-06 | SaaS | [prototype_saas_2026-08-06.html](prototypes/prototype_saas_2026-08-06.html) | Landing page for "CloudFlow", a workflow-automation SaaS product, with feature grid, how-it-works steps, and pricing tiers. |
 | 2026-08-07 | E-commerce | [prototype_ecommerce_2026-08-07.html](prototypes/prototype_ecommerce_2026-08-07.html) | Storefront for "Meridian", a home/lifestyle goods brand, with shop-by-category grid, bestseller product cards, and a newsletter CTA. |
+| 2026-08-13 | Agency | [prototype_agency_2026-08-13.html](prototypes/prototype_agency_2026-08-13.html) | Marketing site for "Fieldstone", a brand & digital design studio, with a services grid, selected-work showcase, and a 4-step process section. |
 
 ## Categories covered so far
 
 - SaaS
 - E-commerce
+- Agency
 
 ## Categories still to do (suggested)
 
-- Agency
 - Restaurant
 - Fitness / Gym
 - Real estate
