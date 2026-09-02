@@ -13,6 +13,7 @@ Each prototype is a **single self-contained HTML file** (no build step, no exter
 | 2026-08-13 | Agency | [prototype_agency_2026-08-13.html](prototypes/prototype_agency_2026-08-13.html) | Marketing site for "Fieldstone", a brand & digital design studio, with a services grid, selected-work showcase, and a 4-step process section. |
 | 2026-08-24 | Restaurant | [prototype_restaurant_2026-08-24.html](prototypes/prototype_restaurant_2026-08-24.html) | Site for "Amber & Oak", a downtown bistro & wine bar, with a menu-highlights grid, our-story section, and a reservation CTA panel. |
 | 2026-08-26 | Fitness / Gym | [prototype_fitness_2026-08-26.html](prototypes/prototype_fitness_2026-08-26.html) | Site for "Ironclad Fitness", a strength-and-conditioning gym, with a programs grid, three-tier membership plans, and a coaches showcase. |
+| 2026-09-02 | Real estate | [prototype_realestate_2026-09-02.html](prototypes/prototype_realestate_2026-09-02.html) | Site for "Northstone Realty", a boutique residential brokerage, with a listing search hero, featured-listings grid, and a services overview. |
 
 ## Categories covered so far
 
@@ -21,10 +22,10 @@ Each prototype is a **single self-contained HTML file** (no build step, no exter
 - Agency
 - Restaurant
 - Fitness / Gym
+- Real estate
 
 ## Categories still to do (suggested)
 
-- Real estate
 - Consulting
 - Healthcare / clinic
 - Education / online courses
