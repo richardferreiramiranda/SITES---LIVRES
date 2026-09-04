@@ -15,6 +15,7 @@ Each prototype is a **single self-contained HTML file** (no build step, no exter
 | 2026-08-26 | Fitness / Gym | [prototype_fitness_2026-08-26.html](prototypes/prototype_fitness_2026-08-26.html) | Site for "Ironclad Fitness", a strength-and-conditioning gym, with a programs grid, three-tier membership plans, and a coaches showcase. |
 | 2026-09-02 | Real estate | [prototype_realestate_2026-09-02.html](prototypes/prototype_realestate_2026-09-02.html) | Site for "Northstone Realty", a boutique residential brokerage, with a listing search hero, featured-listings grid, and a services overview. |
 | 2026-09-03 | Consulting | [prototype_consulting_2026-09-03.html](prototypes/prototype_consulting_2026-09-03.html) | Site for "Beacon & Vale", a management/strategy consulting firm, with a services grid, 4-step process, and case-study results section. |
+| 2026-09-04 | Healthcare / clinic | [prototype_healthcare_2026-09-04.html](prototypes/prototype_healthcare_2026-09-04.html) | Site for "Willow Health", a family & primary care clinic, with a live-availability hero card, services grid, and provider showcase. |
 
 ## Categories covered so far
 
@@ -25,10 +26,10 @@ Each prototype is a **single self-contained HTML file** (no build step, no exter
 - Fitness / Gym
 - Real estate
 - Consulting
+- Healthcare / clinic
 
 ## Categories still to do (suggested)
 
-- Healthcare / clinic
 - Education / online courses
 - Nonprofit
 - Event / conference
