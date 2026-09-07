@@ -16,6 +16,7 @@ Each prototype is a **single self-contained HTML file** (no build step, no exter
 | 2026-09-02 | Real estate | [prototype_realestate_2026-09-02.html](prototypes/prototype_realestate_2026-09-02.html) | Site for "Northstone Realty", a boutique residential brokerage, with a listing search hero, featured-listings grid, and a services overview. |
 | 2026-09-03 | Consulting | [prototype_consulting_2026-09-03.html](prototypes/prototype_consulting_2026-09-03.html) | Site for "Beacon & Vale", a management/strategy consulting firm, with a services grid, 4-step process, and case-study results section. |
 | 2026-09-04 | Healthcare / clinic | [prototype_healthcare_2026-09-04.html](prototypes/prototype_healthcare_2026-09-04.html) | Site for "Willow Health", a family & primary care clinic, with a live-availability hero card, services grid, and provider showcase. |
+| 2026-09-07 | Education / online courses | [prototype_education_2026-09-07.html](prototypes/prototype_education_2026-09-07.html) | Site for "Lumen Academy", an online course & career-cohort platform, with a next-cohorts hero card, program-format grid, and instructor showcase. |
 
 ## Categories covered so far
 
@@ -27,12 +28,14 @@ Each prototype is a **single self-contained HTML file** (no build step, no exter
 - Real estate
 - Consulting
 - Healthcare / clinic
+- Education / online courses
 
 ## Categories still to do (suggested)
 
-- Education / online courses
 - Nonprofit
 - Event / conference
+
+One more category (e.g. Nonprofit or Event/conference) completes the 10-prototype target.
 
 ## Notes for future runs
 
