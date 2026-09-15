@@ -17,6 +17,7 @@ Each prototype is a **single self-contained HTML file** (no build step, no exter
 | 2026-09-03 | Consulting | [prototype_consulting_2026-09-03.html](prototypes/prototype_consulting_2026-09-03.html) | Site for "Beacon & Vale", a management/strategy consulting firm, with a services grid, 4-step process, and case-study results section. |
 | 2026-09-04 | Healthcare / clinic | [prototype_healthcare_2026-09-04.html](prototypes/prototype_healthcare_2026-09-04.html) | Site for "Willow Health", a family & primary care clinic, with a live-availability hero card, services grid, and provider showcase. |
 | 2026-09-07 | Education / online courses | [prototype_education_2026-09-07.html](prototypes/prototype_education_2026-09-07.html) | Site for "Lumen Academy", an online course & career-cohort platform, with a next-cohorts hero card, program-format grid, and instructor showcase. |
+| 2026-09-15 | Nonprofit | [prototype_nonprofit_2026-09-15.html](prototypes/prototype_nonprofit_2026-09-15.html) | Site for "Rootwork Collective", a community nonprofit running food security, youth mentorship, and job-readiness programs, with a fundraising-drives hero card, programs grid, and get-involved section. |
 
 ## Categories covered so far
 
@@ -29,14 +30,12 @@ Each prototype is a **single self-contained HTML file** (no build step, no exter
 - Consulting
 - Healthcare / clinic
 - Education / online courses
-
-## Categories still to do (suggested)
-
 - Nonprofit
-- Event / conference
 
-One more category (e.g. Nonprofit or Event/conference) completes the 10-prototype target.
+## Portfolio complete
+
+10/10 prototypes reached on 2026-09-15. The daily-portfolio routine's target has been met — no new categories are needed unless the target is raised.
 
 ## Notes for future runs
 
-This log is the source of truth for which categories have already been prototyped — check the table above before starting a new one, and append a new row (plus update "categories covered") after each addition. Target is 10 prototypes total, one new category per run.
+This log is the source of truth for which categories have already been prototyped — check the table above before starting a new one, and append a new row (plus update "categories covered") after each addition.
